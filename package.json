@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "scripts": {
+    "serve": "node app2.js"
+  },
+  "author": "soger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
