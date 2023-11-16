@@ -1,6 +1,9 @@
 const express = require('express');
 const server = express();
+const cors = require('cors')
 
+
+server.use(cors());
 server.listen(2838);
 
 var arr = [1,1,1,1,1]
